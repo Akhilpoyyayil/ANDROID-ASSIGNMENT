@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <color name="colorPrimary">#3b5998</color>
+        <color name="colorPrimaryDark">#303F9F</color>
+        <color name="colorAccent">#FF4081</color>
+        <color name="titleBagroundColor">#23426C</color>
+        <color name="fbblue">#3b5998</color>
+        <color name="back">#dfe3ee</color>
+        <color name="white">#ffffff</color>
+        <color name="blue">#5a7ae4</color>
+        <color name="red">#ef292c</color>
+        <color name="yellow">#dada0a</color>
+
+
+</resources>
